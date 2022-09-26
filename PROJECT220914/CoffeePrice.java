@@ -1,3 +1,5 @@
+//예제 2-15
+
 import java.util.Scanner;
 public class CoffeePrice {
     public static void main(String[] args) {

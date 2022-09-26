@@ -1,3 +1,4 @@
+//예제 2-1
 public class Hello {
 	
 	public static int sum(int n, int m) {//값 두 개를 받아 더해서 리턴하는 함수

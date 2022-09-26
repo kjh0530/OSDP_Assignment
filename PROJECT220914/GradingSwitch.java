@@ -1,3 +1,5 @@
+//예제 2-14
+
 import java.util.Scanner;
 
 public class GradingSwitch {

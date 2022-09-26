@@ -1,3 +1,5 @@
+//예제 2-12
+
 import java.util.Scanner;
 
 public class Grading {
