@@ -1,4 +1,4 @@
-//예제 3-11
+//예제 3-11 비정방형 배열의 생성과 접근
 package PROJECT220921_김주훈;
 
 public class IrregularArray {
